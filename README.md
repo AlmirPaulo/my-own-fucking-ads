@@ -13,7 +13,7 @@ Soon
 ## Contribute
 1. To report any bugs, use the Issues tab.
 2. I accept pull requests, just be clear about what your pull request is about.
-3. Talk about **My Fucking Ads** with people! Make videos, posts, tell to your friends!
+3. Talk about **My Own Fucking Ads** with people! Make videos, posts, tell to your friends!
 
 ## Versions
 0.0.1 - June, 2025
