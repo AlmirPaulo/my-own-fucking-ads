@@ -5,7 +5,7 @@ This is an API coded in Python to serve your own ads in your site or app. The wa
 
 ## Dependencies
 - Flask
-- ...
+- ruamel.yaml
 
 ## Replit Sample
 Soon
@@ -16,3 +16,4 @@ Soon
 3. Talk about **My Fucking Ads** with people! Make videos, posts, tell to your friends!
 
 ## Versions
+0.0.1 - June, 2025
